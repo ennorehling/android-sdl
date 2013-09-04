@@ -2,3 +2,5 @@
 gen/
 obj/
 out/
+assets/Thumbs.db
+libs/
